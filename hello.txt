@@ -1,4 +1,8 @@
 
 
 hello world
-my nam is shabarish shetty
+my name is shabarish shetty
+my age is 23
+i am from kundapura
+
+
